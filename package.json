@@ -1,0 +1,16 @@
+{
+  "name": "task-daily",
+  "version": "1.0.0",
+  "description": "Application for write task daily",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.4.0"
+  }
+}
